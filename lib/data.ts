@@ -1,7 +1,7 @@
 import type { Worker, WorkerFile } from "./types"
 
 // Base GitHub URL for raw content
-const BASE_RAW_URL = "https://raw.githubusercontent.com/Jamal0602/id/main/public/user"
+const BASE_RAW_URL = "https://id.cubiz.space/user"
 const w_id = "jamal-asraf"
 
 // Function to fetch workers from GitHub
@@ -18,9 +18,9 @@ export async function fetchWorkers(): Promise<Worker[]> {
         position: "Founder",
         department: "Admin",
         isAdmin: true,
-        detailsUrl: `${BASE_RAW_URL}/${w_id}/${w_id}.txt`,
-        idImageUrl: `${BASE_RAW_URL}/${w_id}/${w_id}_id.jpg`,
-        reportUrl: `${BASE_RAW_URL}/${w_id}/${w_id}_report.xml`,
+        detailsUrl: `${BASE_RAW_URL}/${workerId}/${workerId}.txt`,
+        idImageUrl: `${BASE_RAW_URL}/${workerId}/${workerId}_id.jpg`,
+        reportUrl: `${BASE_RAW_URL}/${workerId}/${workerId}_report.xml`,
         joinDate: "2025-04-15",
       },
     ]
