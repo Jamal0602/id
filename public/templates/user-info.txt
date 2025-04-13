@@ -1,0 +1,45 @@
+# WORKER PROFILE
+-------------------------------------------
+
+## PERSONAL INFORMATION
+Name: [Full Name]
+Position: [Job Title]
+Department: [Department]
+Employee ID: [ID Number]
+Join Date: [YYYY-MM-DD]
+
+## CONTACT DETAILS
+Email: [email@company.com]
+Phone: [+XX XXX XXX XXXX]
+Emergency Contact: [Name: XXX, Relation: XXX, Phone: XXX]
+
+## SKILLS & EXPERTISE
+- [Primary Skill 1]
+- [Primary Skill 2]
+- [Primary Skill 3]
+- [Secondary Skill 1]
+- [Secondary Skill 2]
+
+## CERTIFICATIONS
+- [Certification 1] - [Issuing Organization] - [Year]
+- [Certification 2] - [Issuing Organization] - [Year]
+
+## PROJECT HISTORY
+1. [Project Name] - [Role] - [Duration]
+   Brief description of responsibilities and achievements.
+
+2. [Project Name] - [Role] - [Duration]
+   Brief description of responsibilities and achievements.
+
+## PERFORMANCE METRICS
+Last Review: [Date]
+Rating: [X/5]
+Key Achievements: [Brief summary]
+
+## ADMINISTRATIVE
+Access Level: [Level]
+Security Clearance: [Type]
+Equipment Assigned: [List]
+
+-------------------------------------------
+Last Updated: [YYYY-MM-DD]

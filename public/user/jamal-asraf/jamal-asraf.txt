@@ -1,3 +1,45 @@
-name : jamal asraf
-dob : 06-feb2008
+# WORKER PROFILE
+-------------------------------------------
 
+## PERSONAL INFORMATION
+Name: Jamal Asraf
+Position: Founder
+Department: Admin
+Employee ID: ja@cubiz
+Join Date: 2025-03-15
+
+## CONTACT DETAILS
+Email: ja.jamalasraf@cubiz.space
+Phone: +91 90873 87987
+
+## SKILLS & EXPERTISE
+- JavaScript/TypeScript
+- React & Next.js
+- Node.js
+- GraphQL
+- AWS Cloud Infrastructure
+- CI/CD Pipelines
+
+## CERTIFICATIONS
+- AWS Certified Solutions Architect - Amazon Web Services - 2022
+- Professional Scrum Master I - Scrum.org - 2021
+
+## PROJECT HISTORY
+1. Customer Portal Redesign - Lead Developer - 6 months
+   Led a team of 5 developers to rebuild the customer portal using Next.js and GraphQL, resulting in 40% faster load times and 25% increase in user engagement.
+
+2. Internal Tools Suite - Senior Developer - 8 months
+   Developed a suite of internal tools for operations team, automating workflows and reducing manual processing time by 65%.
+
+## PERFORMANCE METRICS
+Last Review: 2023-12-10
+Rating: 4.8/5
+Key Achievements: Exceeded targets for code quality and project delivery timelines
+
+## ADMINISTRATIVE
+Access Level: L3 (Senior)
+Security Clearance: Standard Plus
+Equipment Assigned: MacBook Pro 16", 2 x 27" Monitors, iPhone 13
+
+-------------------------------------------
+Last Updated: 2024-01-15

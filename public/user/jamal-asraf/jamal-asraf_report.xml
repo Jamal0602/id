@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <employee id="ENG-2023-042">
+    <name>John Doe</name>
+    <period>Q1 2024</period>
+    <generated_date>2024-04-01</generated_date>
+  </employee>
+  <metrics>
+    <table>
+      <headers>
+        <header>Metric</header>
+        <header>Target</header>
+        <header>Achieved</header>
+        <header>Performance</header>
+      </headers>
+      <rows>
+        <row>
+          <cell>Code Quality</cell>
+          <cell>90%</cell>
+          <cell>95%</cell>
+          <cell>Exceeds</cell>
+        </row>
+        <row>
+          <cell>Project Delivery</cell>
+          <cell>On Time</cell>
+          <cell>2 days early</cell>
+          <cell>Exceeds</cell>
+        </row>
+        <row>
+          <cell>Documentation</cell>
+          <cell>Complete</cell>
+          <cell>Complete</cell>
+          <cell>Meets</cell>
+        </row>
+        <row>
+          <cell>Team Collaboration</cell>
+          <cell>Good</cell>
+          <cell>Excellent</cell>
+          <cell>Exceeds</cell>
+        </row>
+        <row>
+          <cell>Knowledge Sharing</cell>
+          <cell>2 sessions</cell>
+          <cell>3 sessions</cell>
+          <cell>Exceeds</cell>
+        </row>
+      </rows>
+    </table>
+  </metrics>
+  <comments>
+    <manager>John consistently delivers high-quality work and has become a valuable mentor to junior team members. His technical expertise and problem-solving skills have been instrumental in the successful delivery of the Customer Portal project.</manager>
+    <self>I've focused on improving our development processes and mentoring junior developers. I'm looking forward to taking on more architectural responsibilities in the coming quarter.</self>
+  </comments>
+  <goals>
+    <goal priority="high">Complete AWS Advanced Networking certification</goal>
+    <goal priority="medium">Lead the API standardization initiative</goal>
+    <goal priority="medium">Mentor two junior developers</goal>
+  </goals>
+</report>

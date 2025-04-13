@@ -47,8 +47,16 @@ export function WorkerDetails({ worker }: WorkerDetailsProps) {
   ))
 
   return (
-    <div className="rounded-lg border p-4">
-      <div className="prose prose-sm max-w-none">{formattedDetails}</div>
+    <div className="space-y-4">
+      <div className="text-xs text-muted-foreground">
+        <span>File path: </span>
+        <code className="rounded bg-muted px-1 py-0.5">
+          id.cubiz.space/user/{worker.id}/{worker.id}.txt
+        </code>
+      </div>
+      <div className="rounded-lg border p-4">
+        <div className="prose prose-sm max-w-none dark:prose-invert">{formattedDetails}</div>
+      </div>
     </div>
   )
 }

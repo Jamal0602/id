@@ -1,12 +1,16 @@
 import { Suspense } from "react"
 import WorkerDashboard from "@/components/worker-dashboard"
 import { Skeleton } from "@/components/ui/skeleton"
+import { ThemeSwitcher } from "@/components/theme-switcher"
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gray-50 p-4 md:p-8">
+    <main className="min-h-screen bg-background p-4 md:p-8">
       <div className="mx-auto max-w-7xl">
-        <h1 className="mb-8 text-3xl font-bold tracking-tight">Worker ID Management</h1>
+        <div className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+          <h1 className="text-3xl font-bold tracking-tight text-foreground">Worker ID Management</h1>
+          <ThemeSwitcher />
+        </div>
         <Suspense fallback={<DashboardSkeleton />}>
           <WorkerDashboard />
         </Suspense>
