@@ -12,15 +12,15 @@ export async function fetchWorkers(): Promise<Worker[]> {
     // Only include users from the public folder
     const workers: Worker[] = [
       {
-        id: "user1",
-        name: "User One",
-        position: "Project Manager",
-        department: "Operations",
+        id: "jamal-asraf",
+        name: "JAMAL ASRAF",
+        position: "Founder",
+        department: "Admin",
         isAdmin: true,
-        detailsUrl: `${BASE_RAW_URL}/user1/user1.txt`,
-        idImageUrl: `${BASE_RAW_URL}/user1/user1_id.jpg`,
-        reportUrl: `${BASE_RAW_URL}/user1/user1_report.xml`,
-        joinDate: "2022-05-10",
+        detailsUrl: `${BASE_RAW_URL}/${worker.id}/${worker.id}.txt`,
+        idImageUrl: `${BASE_RAW_URL}/${worker.id}/${worker.id}_id.jpg`,
+        reportUrl: `${BASE_RAW_URL}/${worker.id}/${worker.id}_report.xml`,
+        joinDate: "2025-04-15",
       },
     ]
 
